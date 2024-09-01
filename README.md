@@ -50,4 +50,5 @@ Update the details of a book.
 Delete a book based on its ID.
 
 ## Database Schema
-![ER_Diagram](https://github.com/user-attachments/assets/7a1481b1-f043-41a0-b06b-6d9fb25db31a)
+
+![ER_Diagram](https://github.com/user-attachments/assets/b1481463-15e5-43ba-9ecc-b6abda1b7217)
